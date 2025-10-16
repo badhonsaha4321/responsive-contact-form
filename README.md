@@ -11,7 +11,7 @@ A modern and fully responsive **contact form** built using **HTML** and **CSS**.
 
 ## Preview
 
-![Contact Form Screenshot](screenshot.jpg)
+![Contact Form Screenshot](Screenshot.jpg)
 
 ## Installation
 
